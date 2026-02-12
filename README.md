@@ -36,7 +36,7 @@ After reviewing different WPT techniques:
 -   Non-Radiative Magnetic Resonant Coupling (NRMRC)
 -   Acoustic Power Transfer (APT)
 
-We selected:
+I selected:
 
 > **NRIC with Serial-Serial (SS) compensation topology**
 
